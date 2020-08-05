@@ -1,5 +1,9 @@
 # github-colors
 
+[![Travis CI](https://travis-ci.org/fartem/github-colors.svg?branch=master)](https://travis-ci.org/fartem/github-colors.svg?branch=master)
+
+## About
+
 GitHub languages colors.
 
 ## How to run Parser
