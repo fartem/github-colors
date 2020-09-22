@@ -4,7 +4,7 @@
 
 ## About
 
-GitHub languages colors.
+GitHub languages colors parser.
 
 ## How to run Parser
 
