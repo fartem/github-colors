@@ -1,6 +1,6 @@
 # github-colors
 
-[![Travis CI](https://travis-ci.org/fartem/github-colors.svg?branch=master)](https://travis-ci.org/fartem/github-colors)
+[![GitHubActions](https://github.com/fartem/github-colors/workflows/Ruby/badge.svg)](https://github.com/fartem/github-colors/actions?query=workflow%3ARuby)
 
 ## About
 
