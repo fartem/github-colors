@@ -12,5 +12,5 @@ Install [Git](https://git-scm.com) and [Ruby](https://www.ruby-lang.org/en). The
 
 ```shell
 $ git clone https://github.com/fartem/github-colors.git
-$ ./parser.rb
+$ ruby ./parser.rb
 ```
