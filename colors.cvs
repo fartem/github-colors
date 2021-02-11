@@ -24,11 +24,14 @@ AutoHotkey,#6594b9
 AutoIt,#1C3552
 Ballerina,#FF5000
 Batchfile,#C1F12E
+Beef,#a52f4e
 Bison,#6A463F
 Blade,#f7523f
 BlitzMax,#cd6400
 Boo,#d4bec1
+Boogie,#c80fa0
 Brainfuck,#2F2530
+Browserslist,#ffd539
 C,#555555
 C#,#178600
 C++,#f34b7d
@@ -42,6 +45,7 @@ Classic ASP,#6a40fd
 Clean,#3F85AF
 Click,#E4E6F3
 Clojure,#db5855
+Closure Templates,#0d948f
 CoffeeScript,#244776
 ColdFusion,#ed2cd6
 ColdFusion CFC,#ed2cd6
@@ -108,6 +112,7 @@ Hy,#7790B2
 IDL,#a3522f
 IGOR Pro,#0000cc
 Idris,#b30000
+ImageJ Macro,#99AAFF
 Io,#a9188d
 Ioke,#078193
 Isabelle,#FEFE00
@@ -132,6 +137,7 @@ Lasso,#999999
 Latte,#f2a542
 Less,#1d365d
 Lex,#DBCA00
+Liquid,#67b8de
 LiveScript,#499886
 LookML,#652B81
 Lua,#000080
@@ -152,6 +158,7 @@ Meson,#007800
 Metal,#8f14e9
 Mirah,#c7a938
 Modula-3,#223388
+Mustache,#724b3b
 NCL,#28431f
 NWScript,#111522
 Nearley,#990000
@@ -166,6 +173,7 @@ Nit,#009917
 Nix,#7e7eff
 Nu,#c9df40
 NumPy,#9C8AF9
+Nunjucks,#3d8137
 OCaml,#3be133
 ObjectScript,#424893
 Objective-C,#438eff
@@ -175,6 +183,7 @@ Odin,#60AFFE
 Omgrofl,#cabbff
 Opal,#f7ede0
 OpenQASM,#AA70FF
+Org,#77aa99
 Oxygene,#cdd0e3
 Oz,#fab738
 P4,#7055b5
@@ -216,6 +225,7 @@ Rascal,#fffaa0
 ReScript,#ed5051
 Reason,#ff5847
 Rebol,#358a5b
+Record Jar,#0673ba
 Red,#f50000
 Ren'Py,#ff7f7f
 Ring,#2D54CB
@@ -232,6 +242,7 @@ SVG,#ff9900
 SaltStack,#646464
 Sass,#a53b70
 Scala,#c22d40
+Scaml,#bd181a
 Scheme,#1e4aec
 Self,#0579aa
 Shell,#89e051
