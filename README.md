@@ -4,7 +4,7 @@
 
 ## About
 
-GitHub languages colors parser.
+GitHub languages colors parser. Supports CVS and JSON.
 
 ## How to run Parser
 
