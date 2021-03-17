@@ -90,6 +90,7 @@ G-code,#D08CF2
 GAML,#FFC766
 GDScript,#355570
 Game Maker Language,#71b417
+Gemfile.lock,#701516
 Genie,#fb855d
 Gherkin,#5B2063
 Glyph,#c1ac7f
@@ -133,7 +134,7 @@ LFE,#4C3023
 LLVM,#185619
 LOLCODE,#cc9900
 LSL,#3d9970
-Lark,#0b130f
+Lark,#2980B9
 Lasso,#999999
 Latte,#f2a542
 Less,#1d365d
@@ -301,6 +302,7 @@ ZenScript,#00BCD1
 Zephir,#118f9e
 Zig,#ec915c
 eC,#913960
+jq,#c7254e
 mIRC Script,#3d57c3
 mcfunction,#E22837
 nesC,#94B0C7
