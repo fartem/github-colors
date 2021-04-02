@@ -90,6 +90,7 @@ G-code,#D08CF2
 GAML,#FFC766
 GDScript,#355570
 Game Maker Language,#71b417
+Gemfile.lock,#701516
 Genie,#fb855d
 Gherkin,#5B2063
 Glyph,#c1ac7f
@@ -122,6 +123,7 @@ JFlex,#DBCA00
 JSONiq,#40d47e
 Java,#b07219
 JavaScript,#f1e05a
+Jinja,#a52a22
 Jolie,#843179
 Jsonnet,#0064bd
 Julia,#a270ba
@@ -133,7 +135,7 @@ LFE,#4C3023
 LLVM,#185619
 LOLCODE,#cc9900
 LSL,#3d9970
-Lark,#0b130f
+Lark,#2980B9
 Lasso,#999999
 Latte,#f2a542
 Less,#1d365d
@@ -248,6 +250,7 @@ Scheme,#1e4aec
 Self,#0579aa
 Shell,#89e051
 Shen,#120F14
+Singularity,#64E6AD
 Slash,#007eff
 Slice,#003fa2
 Slim,#2b2b2b
@@ -259,6 +262,7 @@ Squirrel,#800000
 Stan,#b2011d
 Standard ML,#dc566d
 Starlark,#76d275
+StringTemplate,#3fb34f
 Stylus,#ff6347
 SuperCollider,#46390b
 Svelte,#ff3e00
@@ -291,6 +295,7 @@ X10,#4B6BEF
 XC,#99DA07
 XQuery,#5232e7
 XSLT,#EB8CEB
+Xonsh,#285EEF
 YAML,#cb171e
 YARA,#220000
 YASnippet,#32AB90
@@ -301,6 +306,7 @@ ZenScript,#00BCD1
 Zephir,#118f9e
 Zig,#ec915c
 eC,#913960
+jq,#c7254e
 mIRC Script,#3d57c3
 mcfunction,#E22837
 nesC,#94B0C7
