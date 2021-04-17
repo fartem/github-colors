@@ -2,6 +2,7 @@
 ABAP,#E8274B
 ABAP CDS,#555e25
 AGS Script,#B9D9FF
+AIDL,#34EB6B
 AL,#3AA2B5
 AMPL,#E6EFBB
 ANTLR,#9DC3FF
@@ -23,9 +24,11 @@ Assembly,#6E4C13
 Asymptote,#ff0000
 AutoHotkey,#6594b9
 AutoIt,#1C3552
+BASIC,#ff0000
 Ballerina,#FF5000
 Batchfile,#C1F12E
 Beef,#a52f4e
+Bicep,#519aba
 Bison,#6A463F
 Blade,#f7523f
 BlitzMax,#cd6400
@@ -38,6 +41,7 @@ C#,#178600
 C++,#f34b7d
 CSON,#244776
 CSS,#563d7c
+CUE,#5886E1
 Ceylon,#dfa535
 Chapel,#8dc63f
 Cirru,#ccccff
@@ -83,6 +87,7 @@ Fantom,#14253c
 Faust,#c37240
 Forth,#341708
 Fortran,#4d41b1
+FreeBasic,#867db1
 FreeMarker,#0050b2
 Frege,#00cafe
 Futhark,#5f021f
