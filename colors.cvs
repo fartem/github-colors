@@ -24,6 +24,7 @@ Assembly,#6E4C13
 Asymptote,#ff0000
 AutoHotkey,#6594b9
 AutoIt,#1C3552
+Awk,#c30e9b
 BASIC,#ff0000
 Ballerina,#FF5000
 Batchfile,#C1F12E
@@ -85,6 +86,7 @@ Factor,#636746
 Fancy,#7b9db4
 Fantom,#14253c
 Faust,#c37240
+Fluent,#ffcc33
 Forth,#341708
 Fortran,#4d41b1
 FreeBasic,#867db1
@@ -135,7 +137,7 @@ Julia,#a270ba
 Jupyter Notebook,#DA5B0B
 KRL,#28430A
 Kaitai Struct,#773b37
-Kotlin,#F18E33
+Kotlin,#A97BFF
 LFE,#4C3023
 LLVM,#185619
 LOLCODE,#cc9900
@@ -145,6 +147,7 @@ Lasso,#999999
 Latte,#f2a542
 Less,#1d365d
 Lex,#DBCA00
+LilyPond,#9ccc7c
 Liquid,#67b8de
 LiveScript,#499886
 LookML,#652B81
@@ -195,6 +198,7 @@ Org,#77aa99
 Oxygene,#cdd0e3
 Oz,#fab738
 P4,#7055b5
+PEG.js,#234d6b
 PHP,#4F5D95
 PLSQL,#dad8d8
 Pan,#cc0000
@@ -235,6 +239,7 @@ Reason,#ff5847
 Rebol,#358a5b
 Record Jar,#0673ba
 Red,#f50000
+Regular Expression,#009a00
 Ren'Py,#ff7f7f
 Ring,#2D54CB
 Riot,#A71E49
@@ -277,6 +282,7 @@ TI Program,#A0AA87
 Tcl,#e4cc98
 TeX,#3D6117
 Terra,#00004c
+TextMate Properties,#df66e4
 Turing,#cf142b
 Twig,#c1d026
 TypeScript,#2b7489
@@ -289,6 +295,7 @@ VBScript,#15dcdc
 VCL,#148AA8
 VHDL,#adb2cb
 Vala,#fbe5cd
+Valve Data Format,#f26025
 Verilog,#b2b7f8
 Vim script,#199f4b
 Visual Basic .NET,#945db7
